@@ -32,6 +32,9 @@ git clone <git_url>
 # git 初始化
 git init
 
+
+
+
 # 配置git仓库地址
 git remote add [name] [git_url]
 # 修改git仓库地址
